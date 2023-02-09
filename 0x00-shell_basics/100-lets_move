@@ -1,1 +1,2 @@
-#!/bin/ [[:upper:]]* /tmp/u
+#!/bin/bash
+[[:upper:]]* /tmp/u
